@@ -11,7 +11,7 @@
 🤝 I'm looking to collaborate on: Beginner-friendly Web Development Projects<br>- 
 💬 Ask me about: JavaScript, React, Node.js and MongoDB<br>- 
 🎯 My goal: To become a skilled Software Engineer<br>- 
-📫 How to reach me:** subhasisroy947@gmail.com
+📫 How to reach me : subhasisroy947@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhasisroy947) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasisroy947@gmail.com) 
