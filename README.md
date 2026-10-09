@@ -4,8 +4,8 @@
      style="object-fit: cover;" />
 <br><br>
 ### <b>Hi 👋, I'm Subhasis Roy</b><br>
-**Aspiring Software Engineer**
-<img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br>
+**Aspiring Software Engineer**<br>
+<img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br>-
 🔭 I'm currently working on: React Projects and Full Stack Web Development<br>- 
 🌱 I'm currently learning: Advanced React, Node.js, Express.js and MongoDB<br>- 
 🤝 I'm looking to collaborate on: Beginner-friendly Web Development Projects<br>- 
