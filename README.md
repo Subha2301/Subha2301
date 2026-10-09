@@ -2,7 +2,7 @@
      width="100%" 
      height="200px" 
      style="object-fit: cover;" />
-<br><br>
+<br>
 ### <b>Hi 👋, I'm Subhasis Roy</b><br>
 **Aspiring Software Engineer**<br>
 - 🔭 **Currently working on:** React Projects and Full Stack Web Development
