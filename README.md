@@ -5,13 +5,20 @@
 <br><br>
 ### <b>Hi 👋, I'm Subhasis Roy</b><br>
 **Aspiring Software Engineer**<br>
-<img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br>-
-🔭 I'm currently working on : React Projects and Full Stack Web Development<br>- 
-🌱 I'm currently learning : Advanced React, Node.js, Express.js and MongoDB<br>- 
-🤝 I'm looking to collaborate on : Beginner-friendly Web Development Projects<br>- 
-💬 Ask me about : JavaScript, React, Node.js and MongoDB<br>- 
-🎯 My goal : To become a skilled Software Engineer<br>- 
-📫 How to reach me : subhasisroy947@gmail.com
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
+
+- 🔭 **Currently working on:** React Projects and Full Stack Web Development
+- 🌱 **Currently learning:** Advanced React, Node.js, Express.js and MongoDB
+- 🤝 **Looking to collaborate on:** Beginner-friendly Web Development Projects
+- 💬 **Ask me about:** JavaScript, React, Node.js and MongoDB
+- 🎯 **My goal:** To become a skilled Software Engineer
+- 📫 **Email:** [subhasisroy947@gmail.com](mailto:subhasisroy947@gmail.com)
+
+<br clear="right">
+
+
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhasisroy947) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasisroy947@gmail.com) 
