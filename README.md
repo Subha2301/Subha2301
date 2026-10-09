@@ -1,5 +1,17 @@
 # 💫 About Me:
-<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" <br>     width="100%" <br>     height="200px" <br>     style="object-fit: cover;" /><br><br><br>Hi 👋, I'm Subhasis Roy<br>**A passionatee Software Developer**<br><br><img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br><br>- 🔭 **I'm currently working on:** React Projects and Full Stack Web Development<br>- 🌱 **I'm currently learning:** Advanced React, Node.js, Express.js and MongoDB<br>- 🤝 **I'm looking to collaborate on:** Beginner-friendly Web Development Projects<br>- 💬 **Ask me about:** JavaScript, React, Node.js and MongoDB<br>- 🎯 **My goal:** To become a skilled Software Engineer<br>- 📫 **How to reach me:** subhasisroy947@gmail.com
+<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" 
+     width="100%" 
+     height="200px" 
+     style="object-fit: cover;" />
+<br><br><br>
+Hi 👋, I'm Subhasis Roy<br>
+**A passionatee Software Developer**<br><br>
+<img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br><br>- 🔭 **I'm currently working on:** React Projects and Full Stack Web Development<br>- 
+🌱 **I'm currently learning:** Advanced React, Node.js, Express.js and MongoDB<br>- 
+🤝 **I'm looking to collaborate on:** Beginner-friendly Web Development Projects<br>- 
+💬 **Ask me about:** JavaScript, React, Node.js and MongoDB<br>- 
+🎯 **My goal:** To become a skilled Software Engineer<br>- 
+📫 **How to reach me:** subhasisroy947@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhasisroy947) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Subha_947) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasisroy947@gmail.com) 
