@@ -1,12 +1,11 @@
-# 💫 About Me:
 <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" 
      width="100%" 
      height="200px" 
      style="object-fit: cover;" />
 <br><br>
 
-<h1>Hi 👋, I'm Subhasis Roy</h1> <br>
-**A passionatee Software Developer**<br><br>
+<h2>Hi 👋, I'm Subhasis Roy</h2><br>
+Aspiring Software Engineer<br>
 <img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"><br>
 🔭 **I'm currently working on:** React Projects and Full Stack Web Development<br>- 
 🌱 **I'm currently learning:** Advanced React, Node.js, Express.js and MongoDB<br>- 
